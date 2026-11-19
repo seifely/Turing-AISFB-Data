@@ -4,7 +4,7 @@ Does not currently contain data on the personas, proficiency levels, lifecycle s
 
 Original work credited to:
 _Forshaw, Matthew, Clementina Ramirez, Tahira Suleman, and Vera Matser. "A National Competency Framework for AI Skills across Education and the Workforce." In Proceedings of the 31st ACM Conference on Innovation and Technology in Computer Science Education V. 1, pp. 408-414. 2026._
-The above can be found at [this link](https://doi.org/10.5281/zenodo.18892559).
+Found at [this link](https://doi.org/10.5281/zenodo.18892559).
 
 Contents primarily include a pickled dictionary containing:
 
